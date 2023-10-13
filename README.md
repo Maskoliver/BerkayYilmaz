@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay Yılmaz</h1>
 <h3 align="center">A Fullstack Web Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Threejs and Unity Game Development**
+- 🌱 I’m currently learning **Unity Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
